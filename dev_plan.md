@@ -2,9 +2,10 @@
 
 Use this file to store your plan for the program. 
 
-| Week                      | Activities          | | Time and Location         |
-| -----------               | -------------------- || ------------- |
-| 1  (30/09/2019)         |       Setting             |  |               |
+| Week                      | Activities           | Time and Location         |
+| -----------               | -------------------- | ------------- |
+| 1  (30/09/2019)         |       Setting              |               |
+|                           |                       |               |
 | 2  (07/10/2019)         |                      |               |
 | 3  (14/10/2019)         |                      |               |
 | 4  (21/10/2019)         |                      |               |
