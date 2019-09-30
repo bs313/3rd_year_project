@@ -1,14 +1,15 @@
-# Development plan
+# Development plan and schedules
 
-Use this file to store your plan for the program. What are you going to do, in which order? 
+Use this file to store your plan for the program. 
 
 | Week        | Activities           | Who           |
 | ----------- | -------------------- | ------------- |
-| 1   dfdsf        |                      |               |
-| 2           |                      |               |
-| 3           |                      |               |
-| 4           |                      |               |
-| 5           |                      |               |
-| 6           |                      |               |
-| 7           |                      |               |
-| 8           |                      |               |
+| 1  (30/09/2019)         |                      |               |
+| 2  (07/10/2019)         |                      |               |
+| 3  (14/10/2019)         |                      |               |
+| 4  (21/10/2019)         |                      |               |
+| 5  (28/10/2019)         |                      |               |
+| 6  (04/11/2019)         |                      |               |
+| 7  (11/11/2019)         |                      |               |
+| 8  (18/11/2019)         |                      |               |
+| 9  (25/11/2019)                      |                      |               | 
