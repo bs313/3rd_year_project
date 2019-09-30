@@ -4,7 +4,7 @@ Use this file to store your plan for the program. What are you going to do, in w
 
 | Week        | Activities           | Who           |
 | ----------- | -------------------- | ------------- |
-| 1           |                      |               |
+| 1   dfdsf        |                      |               |
 | 2           |                      |               |
 | 3           |                      |               |
 | 4           |                      |               |
