@@ -2,7 +2,7 @@
 
 Use this file to store your plan for the program. 
 
-| Week                      | Activities           | Time and Location         |
+| Week                      | Activities/Description           | Time and Location         |
 | -----------               | -------------------- | ------------- |
 | 1  (30/09/2019)         |       Setting up GitHub Main Repository             |    N/A           |
 |                           |       Meeting with Andre                |      TBC         |
@@ -10,7 +10,7 @@ Use this file to store your plan for the program.
 | 3  (14/10/2019)         |                      |               |
 | 4  (21/10/2019)         |                      |               |
 | 5  (28/10/2019)         |                      |               |
-| 6  (04/11/2019)         |                      |               |
+| 6  (04/11/2019)         |   Oral Presentation                   |       06/11/2019        |
 | 7  (11/11/2019)         |                      |               |
 | 8  (18/11/2019)         |                      |               |
 | 9  (25/11/2019)                      |                      |               | 
@@ -19,4 +19,4 @@ Use this file to store your plan for the program.
 | | | | 
 | | | |
 | | | |
-|(17/02/2020) | Project Deadline | 21/02/2020 E-Submission |
+|(13/01/2020) | Project Deadline | 17/02/2020 E-Submission |
