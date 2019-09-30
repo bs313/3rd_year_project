@@ -10,3 +10,4 @@ Look below for a template. For a markdown cheatsheet, check [this repo](https://
 | ------------- | ------------- | ----------------- | -------------- |
 | MACA | https://gitlab.com/nanocastro/Repo_maca | Active |  Air quality monitor for PM & gases |
 | Luftdaten | https://luftdaten.info/en/home-e | Active |  Nice visualizations and tutorials |
+file:///C:/Users/Me/Downloads/Life%20Science%20experimental%20project%20handbook%202018-2019.pdf 
